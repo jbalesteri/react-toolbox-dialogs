@@ -1,14 +1,9 @@
 # React-Toolbox Dialogs
 
+Forked from [jrop's react-toolbox-dialogs](https://github.com/jrop/react-toolbox-dialogs)
+
 A Promise-API for common dialogs (alert/confirm/prompt)
 
-![demo](https://raw.githubusercontent.com/jrop/react-toolbox-dialogs/master/example/demo.gif)
-
-# Installation
-
-```sh
-npm install --save-dev react-toolbox-dialogs
-```
 
 # Usage
 
@@ -62,7 +57,8 @@ window.addEventListener('load', function () {
 ```
 
 # License (ISC)
-Copyright (c) 2016, Company or Person's Name <jrapodaca@gmail.com>
+
+Original license:
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
